@@ -1,9 +1,9 @@
 # Robootics and Artificial intelligence Student at University Of Hull
 
-#Work Experience 
+###Work Experience 
 Pizza King - manager
 
-#Programming experience
+###Programming experience
 Ubuntu - ros2
 c#
 c++
@@ -11,9 +11,9 @@ python - tensorflow
 HTML
 Css
 
-#currently learning 
+###currently learning 
 java script
 
-#Projects
+###Projects
 - Self driving car controlled by hand movements ( arduino uno r3 )
 - hand controlled gyro sensor controlled by 3 gestures
