@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Danial Rafi
 description: Portfolio and projects
+
+# Custom header image setting
+header:
+  image: "/assets/nowruz2.jpg"  # Path to your image
