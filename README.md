@@ -1,5 +1,5 @@
 # Danial Rafi
-![me danial](assests/img/nowruz2.jpg)
+![me danial](/assests/img/nowruz2.jpg)
 
 
 ## Work Experience  
